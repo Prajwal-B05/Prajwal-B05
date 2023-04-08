@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Prajwal-B05
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Web3
+Hello My name is Prajwal B 
+An undergrad student pursuing B.tech in the field of Information Technology .
+Currently Exploring web3  and Blockchain .
+An aspiring Blockchain developer learning new technologies to make the world a better place to live.
 
 
 <!---
